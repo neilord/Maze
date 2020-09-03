@@ -1,0 +1,2 @@
+# Maze
+Android simple game
